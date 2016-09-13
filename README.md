@@ -1,13 +1,15 @@
-========================
-SOURCE CODE DESCRIPTION
-========================
+#ReacTogon
+This project was developed by "The Thunderbolts"[gp14-tb-nhn] in 2014/15, Nottingham University.
 
+###Description
+This project aimed to produce a software emulation of a [reacTogon](https://www.youtube.com/watch?v=AklKy2NDpqs), the core concept was the reactive production of music.
+Detailed functions: see tutorial at https://www.youtube.com/watch?v=JASApSuaLlA&feature=youtu.be
+
+###Source Code
 The source code is in the SourceCode.zip
 The codes in this .zip are all our group's own work.
 
-========================
-BUILD OUTPUT DESCRIPTION
-========================
+###Build output
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
@@ -31,7 +33,7 @@ JAR file is copied to the lib folder.
 If the classpath contains other types of files or folders, these files (folders)
 are not copied.
 * If a library on the projects classpath also has a Class-Path element
-specified in the manifest,the content of the Class-Path element has to be on
+specified in the manifest, the content of the Class-Path element has to be on
 the projects runtime path.
 * To set a main class in a standard Java project, right-click the project node
 in the Projects window and choose Properties. Then click Run and enter the
