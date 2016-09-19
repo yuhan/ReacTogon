@@ -3,7 +3,7 @@ This project was developed by "The Thunderbolts"[gp14-tb-nhn] in 2014/15, Nottin
 
 ###Description
 This project aimed to produce a software emulation of a [reacTogon](https://www.youtube.com/watch?v=AklKy2NDpqs), the core concept was the reactive production of music. It was built based on Java and [Processing](https://processing.org/).
-Detailed functions: see tutorial at https://www.youtube.com/watch?v=JASApSuaLlA&feature=youtu.be
+Detailed functions: see [tutorial](https://www.youtube.com/watch?v=JASApSuaLlA&feature=youtu.be)
 
 ###Source Code
 The source code is in the SourceCode.zip
