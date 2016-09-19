@@ -1,5 +1,5 @@
 #ReacTogon
-This project was developed by "The Thunderbolts"[gp14-tb-nhn] in 2014/15, Nottingham University.
+This project was developed by "The Thunderbolts"[gp14-tb-nhn] in 2014/15, Nottingham University. The tech team was consist of [San Ha Huynh Vu](https://github.com/vusanhahuynh) and [Yuhan Luo](https://github.com/fourvvvv)
 
 ###Description
 This project aimed to produce a software emulation of a [reacTogon](https://www.youtube.com/watch?v=AklKy2NDpqs), the core concept was the reactive production of music. It was built based on Java and [Processing](https://processing.org/).
