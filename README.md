@@ -1,15 +1,17 @@
-#ReacTogon
+# ReacTogon
 This project was developed by "The Thunderbolts"[gp14-tb-nhn] in 2014/15, Nottingham University. The tech team was consist of [San Ha Huynh Vu](https://github.com/vusanhahuynh) and [Yuhan Luo](https://github.com/fourvvvv)
 
-###Description
+### Description
 This project aimed to produce a software emulation of a [reacTogon](https://www.youtube.com/watch?v=AklKy2NDpqs), the core concept was the reactive production of music. It was built based on Java and [Processing](https://processing.org/).
-Detailed functions: see [tutorial](https://www.youtube.com/watch?v=JASApSuaLlA&feature=youtu.be)
 
-###Source Code
+[![Demo](https://img.youtube.com/vi/JASApSuaLlA/0.jpg)](https://www.youtube.com/watch?v=JASApSuaLlA)
+
+
+### Source Code
 The source code is in the SourceCode.zip
 The codes in this .zip are all our group's own work.
 
-###Build output
+### Build output
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
